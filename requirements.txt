@@ -13,6 +13,7 @@ cffi==1.16.0
 chardet==5.2.0
 charset-normalizer==3.3.2
 click==8.1.7
+colorama==0.4.6
 ConfigArgParse==1.7
 cryptography==42.0.5
 cssbeautifier==1.15.1
@@ -35,6 +36,11 @@ Flask-Login==0.6.3
 fonttools==4.51.0
 gevent==24.2.1
 geventhttpclient==2.2.1
+google-api-core==2.18.0
+google-api-python-client==2.127.0
+google-auth==2.29.0
+google-auth-httplib2==0.2.0
+googleapis-common-protos==1.63.0
 greenlet==3.0.3
 gunicorn==22.0.0
 h11==0.14.0
@@ -111,7 +117,7 @@ tzlocal==5.2
 uritemplate==4.1.1
 uritools==4.0.2
 urllib3==2.2.1
-weasyprint==61.2
+weasyprint==62.0
 webencodings==0.5.1
 Werkzeug==3.0.2
 wsproto==1.2.0
@@ -120,4 +126,3 @@ xlwings==0.31.1
 zope.event==5.0
 zope.interface==6.3
 zopfli==0.2.3
-coverage==7.5.1
