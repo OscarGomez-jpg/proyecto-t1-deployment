@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
-cat /etc/os-release
+# cat /etc/os-release
+
+sudo apt update
+
+sudo apt install libpango1.0-0
 
 # Exit on error
 set -o errexit
