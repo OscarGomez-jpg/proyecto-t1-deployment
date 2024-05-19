@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+cat /etc/os-release
+
 # Exit on error
 set -o errexit
 
