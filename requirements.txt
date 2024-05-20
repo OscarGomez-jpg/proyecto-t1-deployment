@@ -126,3 +126,5 @@ xlwings==0.31.1
 zope.event==5.0
 zope.interface==6.3
 zopfli==0.2.3
+pycairo==1.20.1
+PyGObject==3.42.0
